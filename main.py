@@ -52,3 +52,4 @@ for i in range(len(peopleArray)):
     building.floors[i].createFloorQueue(peopleArray[i])
 # use elevator
 building.basicElevatorFunction()
+
